@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901673404669",
+    "project_id": "tryauthentication-f1093",
+    "storage_bucket": "tryauthentication-f1093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901673404669:android:d61f7a5e05df54d0981694",
+        "android_client_info": {
+          "package_name": "com.example.tryauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901673404669-av49e90pieriaf6u8sb6m66v1tstaiv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2eb84TQ15dYwApT-4wPDdRFNu52G5tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901673404669-av49e90pieriaf6u8sb6m66v1tstaiv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
